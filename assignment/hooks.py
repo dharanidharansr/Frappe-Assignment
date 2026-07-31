@@ -7,11 +7,7 @@ app_license = "mit"
 
 # Apps
 # ------------------
-doc_events = {
-    "ToDo": {
-        "validate": "assignment.api.myapi.cr7"
-    }
-}
+doc_events = {"ToDo": {"validate": "assignment.api.myapi.cr7"}}
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
