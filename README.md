@@ -7,7 +7,7 @@ Just To Finish The Task
 - Added a `before_save` method to the custom DocType controller so `description` falls back to `Default Description` when empty.
 - Configured `doc_events` in `hooks.py` to trigger a custom function on a standard DocType.
 - Added the custom Python function that shows `frappe.msgprint("Hook executed!")`.
-
+- ![alt text](image-1.png)
 ### Submission
 
 Repository URL: https://github.com/dharanidharansr/Frappe-Assignment.git
