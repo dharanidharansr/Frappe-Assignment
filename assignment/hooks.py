@@ -9,7 +9,7 @@ app_license = "mit"
 # ------------------
 doc_events = {"ToDo": {"validate": "assignment.api.myapi.cr7"}}
 scheduler_events = {
-    "all":[
+    "daily":[
         "assignment.tasks.daily_maintenance"
     ]
 }
