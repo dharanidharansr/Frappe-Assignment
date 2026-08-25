@@ -8,6 +8,11 @@ app_license = "mit"
 # Apps
 # ------------------
 doc_events = {"ToDo": {"validate": "assignment.api.myapi.cr7"}}
+scheduler_events = {
+    "daily":[
+        "assignment.tasks.daily_maintenance"
+    ]
+}
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
