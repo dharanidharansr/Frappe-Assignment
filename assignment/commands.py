@@ -1,7 +1,7 @@
 import click
 
 @click.command()
-def cmd():
+def wow():
     click.echo("Hello from the custom Bench CLI!!")
     
-commands = [cmd]
+commands = [wow]
